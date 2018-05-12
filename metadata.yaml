@@ -1,0 +1,44 @@
+_repo: La-Batalo-de-l-Vivo_24501
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Zamenhof, L. L. (Ludwik Lejzer)
+    aliases:
+    - Zamenhof, Ludovic Lazarus
+    - Zamenhof, Ludwik Lazar
+    - Zamenhof, Lazaro Ludoviko
+    birthdate: 1859
+    deathdate: 1917
+    gutenberg_agent_id: '3934'
+    url: http://www.gutenberg.org/2009/agents/3934
+    wikipedia: http://en.wikipedia.org/wiki/L._L._Zamenhof
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dickens, Charles
+    aliases:
+    - Boz
+    - Dickens, Charles John Huffam
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+description: ''
+gutenberg_bookshelf: Esperanto
+gutenberg_issued: '2008-02-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24501'
+language: eo
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PR'
+- !lcsh 'Christmas stories'
+title: La Batalo de l' Vivo
+url: http://www.gutenberg.org/ebooks/24501
